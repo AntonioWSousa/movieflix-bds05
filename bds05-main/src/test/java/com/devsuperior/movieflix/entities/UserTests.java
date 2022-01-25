@@ -3,7 +3,7 @@ package com.devsuperior.movieflix.entities;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-
+import com.devsuperior.movieflix.entites.User;
 
 public class UserTests {
 
